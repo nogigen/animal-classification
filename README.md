@@ -1,5 +1,5 @@
 # animal classifier
-Applying feature extraction with VGG-16 to classif animals using logistic regression, linear SVM and Multilayer Perceptron.
+Applying feature extraction with VGG-16 to classify animal images using logistic regression, linear SVM and Multilayer Perceptron.
 
 This readme is a summary. If you want more information, feel free to read my <a href="/eee485_final_report.pdf" class="image fit">report</a> or take a look at this <a href="/presentation.pptx" class="image fit">presentation</a>.
 
