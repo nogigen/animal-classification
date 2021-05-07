@@ -14,6 +14,7 @@ These are the things I did in the preprocessing part
 - Distribution of the classes gets handled.
 - Splitting data into train and test sets.
 
+---
 
 ## Logistic Regression
 Softmax Classifier
@@ -33,7 +34,7 @@ overall accuracy is 0.93
 overall precision is 0.93
 overall recall is 0.93
 ```
-
+---
 
 ## Linear SVM
 Loss function: Hinge Loss with L2 Regularization
@@ -52,7 +53,7 @@ overall accuracy is 0.94
 overall precision is 0.93
 overall recall is 0.93
 ```
-
+---
 ## MLP
 Input Layer: 4096 neurons
 Output Layer: 10 neurons (Softmax Classifier)
