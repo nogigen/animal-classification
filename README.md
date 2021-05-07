@@ -1,9 +1,9 @@
-# animal classifier
+# animal classification
 Applying feature extraction with VGG-16 to classify animal images using logistic regression, linear SVM and Multilayer Perceptron.
 
 This readme is a summary. If you want more information, feel free to read my <a href="/eee485_final_report.pdf" class="image fit">report</a> or take a look at this <a href="/presentation.pptx" class="image fit">presentation</a>.
 
-[Dataset](https://www.kaggle.com/vishalsubbiah/pokemon-images-and-types) is available in kaggle. Download the dataset and unzip it. Unzipped folder, preprocessing.ipynb and Vanilla AutoEncoder.ipynb should be in the same folder
+[Dataset](https://www.kaggle.com/alessiocorrado99/animals10) is available in kaggle. Download the dataset and unzip it. Unzipped folder, preprocessing.ipynb and files which contains the implementations of the models should be in the same folder.
 
 ---
 ## Preprocessimg
