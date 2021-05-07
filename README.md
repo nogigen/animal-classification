@@ -56,7 +56,11 @@ overall recall is 0.93
 ---
 ## MLP
 Input Layer: 4096 neurons
+
 Output Layer: 10 neurons (Softmax Classifier)
+
+3 hidden layers with 128, 64 and 32 neurons.
+
 Optimizer → SGD
 
 MLP with a random weight initialization didn't converge.
