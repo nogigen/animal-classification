@@ -20,11 +20,11 @@ These are the things I did in the preprocessing part
 Softmax Classifier
 Loss Function: Cross-Entropy
 
-| ![/mlp-train.png](/mlp-train.png) | 
+| ![/losigtic-train.png](/logistic-train.png) | 
 |:--:| 
 | Training model |
 
-| ![/mlp-loss-plot.png](/mlp-loss-plot.png) | 
+| ![/logistic-loss-plot.png](/logistic-loss-plot.png) | 
 |:--:| 
 | Plotting loss |
 
