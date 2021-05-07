@@ -18,6 +18,7 @@ These are the things I did in the preprocessing part
 
 ## Logistic Regression
 Softmax Classifier
+
 Loss Function: Cross-Entropy
 
 | ![/losigtic-train.png](/logistic-train.png) | 
