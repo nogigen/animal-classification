@@ -6,7 +6,7 @@ This readme is a summary. If you want more information, feel free to read my <a 
 [Dataset](https://www.kaggle.com/alessiocorrado99/animals10) is available in kaggle. Download the dataset and unzip it. Unzipped folder, preprocessing.ipynb and files which contains the implementations of the models should be in the same folder.
 
 ---
-## Preprocessimg
+## Preprocessing
 These are the things I did in the preprocessing part
 
 - Resizing images to 224px x 224px since that's what VGG-16 uses.
